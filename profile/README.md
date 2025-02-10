@@ -1,2 +1,2 @@
-#NGodingNGOdading
+## NGodingNGOdading
 Just little organization XD
